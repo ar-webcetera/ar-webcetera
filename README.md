@@ -2,7 +2,7 @@
 
 Fullstack-разработчик на TypeScript. Делаю продукты с нуля: фронт, бэк, real-time, DevOps.
 
-Стек: NestJS, Nuxt 3 / Vue, PostgreSQL, MongoDB, Docker.
+<img src="https://skillicons.dev/icons?i=ts,nestjs,nodejs,nuxtjs,vue,postgres,mongodb,redis,graphql,docker,nginx,linux" alt="стек" />
 
 Флагман - Нервион: open-source трекер задач и проектов для команд (альтернатива Jira).
 https://github.com/ar-webcetera/nervion

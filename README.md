@@ -7,4 +7,4 @@ Fullstack-разработчик на TypeScript. Делаю продукты с
 Флагман - Нервион: open-source трекер задач и проектов для команд (альтернатива Jira).
 https://github.com/ar-webcetera/nervion
 
-Связь: a.romanov@webcetera.ru
+Связь: Telegram [@stepanovv_andrey](https://t.me/stepanovv_andrey), почта a.romanov@webcetera.ru
